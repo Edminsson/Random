@@ -1,0 +1,1 @@
+Först skapade jag en branch utifrån master direkt i Gitis och sen skapade jag den här filen också direkt i Gitis.
