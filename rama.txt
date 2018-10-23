@@ -2,3 +2,5 @@ Version v1.0.3
 Un par de comentarios en la ramota.
 Y otros mas.
 Tercero y cuarto
+
+Uppdatering i forken, direkt i Gitis. Jag råkade ändra den här filen även i master branchen på min fork. Oops.
